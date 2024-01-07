@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" height="30" alt="postgres"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"  />
   <img width="12" />
 </div>
 
